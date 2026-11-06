@@ -8,14 +8,8 @@
 
 <div class="poster"><img src="poster.jpg" alt="팀 포스터" width="600"/></div>
 
-<p align="center" class="poster-caption"><sub>SW01-03 팀, 생체칩이 만드는 더 안전한 미래 일상
+<p align="center" class="poster-caption"><sub> SW01-03 팀, BIO-LINK 2050,「생체칩이 만드는 더 안전한 미래 일상」, 일부 이미지 AI로 생성.
 
-1965년에 35년 뒤의 생활을 상상해 그린 이 그림처럼, 우리 팀이 그리는 미래를 포스터로 만들어 봅시다.
-팀 활동으로 만든 포스터를 `poster.jpg` 파일 이름으로 이 repository에 업로드하면 위 그림이 팀 포스터로 바뀝니다.
-파일 이름이 다르거나 png 파일이면 위 `<img src="poster.jpg">`의 파일 이름을 맞추고, 출처 문구도 팀에 맞게 고쳐 주세요.
-
-> **포스터 파일 권장 규격**: A4 세로 비율(1 : 1.414), 1240×1754px 이상, JPG, 2MB 이하.
-> 홈페이지에서는 어떤 크기·비율의 파일을 올려도 같은 크기의 세로 틀 안에 맞춰 표시되지만, 권장 규격을 지키면 여백 없이 가장 선명하게 보입니다.
 
 ***
 
