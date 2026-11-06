@@ -8,7 +8,7 @@
 
 <div class="poster"><img src="poster.jpg" alt="팀 포스터" width="600"/></div>
 
-<p align="center" class="poster-caption"><sub> SW01-03 팀 | 김민석 · 김예은 · 김지민 · 박세아, BIO-LINK 2050,「생체칩이 만드는 더 안전한 미래 일상」, 일부 이미지 AI로 생성.</sub></p>
+<p align="center" class="poster-caption"><sub> SW01-03 팀 | 김민석 · 김예은 · 김지민 · 박세아, BIO-LINK 2050,「생체칩이 만드는 더 안전한 미래 일상」, 일부 이미지 AI로 생성.</a></sub></p>
 
 
 ***
